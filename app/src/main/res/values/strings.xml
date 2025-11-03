@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGiphy</string>
+    <string name="search">Search</string>
+    <string name="no_result_found">No result found</string>
+</resources>
